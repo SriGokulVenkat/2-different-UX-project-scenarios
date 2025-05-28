@@ -32,16 +32,14 @@ get confused about the timing, which results in missed doses and health issues."
 ## Problem 2:  
 "Caregivers need a way to track their family member’s medication because they cannot 
 always be present, which results in stress and lack of updates."  
-Research Methods  
+## Research Methods  
 • Interviews – to understand how older users and caregivers currently manage 
 medications and what they find hard.  
-• Usability Testing – to check if users can easily use the reminder app and understand 
-how to set medication alarms.  
-Why?  
-Interviews give real, personal stories. Usability testing shows if users get confused or lost when using the 
-app.  
-Personas  
-Persona 1: Elderly User  
+• Usability Testing – to check if users can easily use the reminder app and understand how to set medication alarms.  
+# Why?  
+Interviews give real, personal stories. Usability testing shows if users get confused or lost when using the app.  
+# Personas  
+# Persona 1: Elderly User  
 • Name: Ramesh Verma  
 • Age: 68  
 • Occupation: Retired teacher  
@@ -49,7 +47,7 @@ Persona 1: Elderly User
 • Behaviours: Uses a basic phone, asks his son for help with apps  
 • Pain Points: Forgets medication, doesn’t understand complex apps  
 • Motivations: Wants to be independent and avoid going to the doctor  
-Persona 2: Caregiver  
+# Persona 2: Caregiver  
 • Name: Pooja Singh  
 • Age: 35  
 • Occupation:  Working professional, lives away from parents  
@@ -57,25 +55,23 @@ Persona 2: Caregiver
 • Behaviours:  Uses apps daily, checks in on her mom by phone  
 • Pain Points:  Worries about mom missing medication  
 • Motivations:  Wants peace of mind and regular updates  
-Scenario 2: E-commerce App for Eco-Friendly Products  
-Problem Statements  
-Problem 1:  
+## Scenario 2: E-commerce App for Eco-Friendly Products  
+## Problem Statements  
+## Problem 1:  
 "Eco-conscious shoppers need a way to find sustainable products easily because regular 
 shopping apps don’t show eco-friendly options clearly, which results in frustration and bad 
 choices.  
-Problem 2:  
+## Problem 2:  
 "New customers need a way to trust which products are truly eco-friendly because they fear 
 greenwashing, which results in hesitation to buy."   
 Research Methods  
 • Surveys – to learn how many users care about eco-friendly shopping and what they 
 look for.  
-• Diary Studies – to follow users as they try to shop for eco-friendly items over a few 
-days.  
-Why?  
-Surveys show patterns from many users. Diary studies help you see real behavior and shopping habits over 
-time.  
-Personas  
-Persona 1: Eco Shopper  
+• Diary Studies – to follow users as they try to shop for eco-friendly items over a few days.  
+# Why?  
+Surveys show patterns from many users. Diary studies help you see real behavior and shopping habits over time.  
+# Personas  
+# Persona 1: Eco Shopper  
 • Name: Ayesha Khan  
 • Age: 28  
 • Occupation: Digital Marketer  
@@ -83,7 +79,7 @@ Persona 1: Eco Shopper
 • Behaviours: Shops online 2-3 times a month, reads product reviews  
 • Pain Points: Hard to tell if a product is eco-friendly  
 • Motivations: Wants to protect the environment and support good brands  
-Persona 2: First-Time Buyer  
+# Persona 2: First-Time Buyer  
 • Name: Arjun Mehra  
 • Age: 24  
 • Occupation: Student  
@@ -91,7 +87,5 @@ Persona 2: First-Time Buyer
 • Behaviours: New to eco-shopping, checks prices and reviews a lot  
 • Pain Points: Confused by “eco-friendly” labels  
 • Motivations: Wants to make better choices and learn more 
-## SCREENSHOTS:
-
 ## Result:
 Thus, the experiment was completed successfully.
