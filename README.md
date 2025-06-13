@@ -1,6 +1,6 @@
 # 2-different-UX-project-scenarios
-## Name : JAYARAJ B
-## Reg. no: 212224220011
+## Name : SRI GOKUL VENKAT M
+## Reg. no: 212224040324
 ## AIM:
 Present 2 different UX project scenarios (e.g., designing a health app, an e-commerce site, or a government service portal).
 
